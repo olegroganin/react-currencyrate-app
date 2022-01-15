@@ -7,7 +7,7 @@ function App() {
    return (
       <div>
          <Currencyrate/>
-		</div>
+      </div>
    )
 }
 
